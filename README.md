@@ -401,7 +401,7 @@ HR面(20min)
 <p></br></p>
 
 <blockquote>
-<p>最后附上自己刷题记录（有一些模板）</p>
+<p>最后附上自己刷题记录（有一些模板，持续更新）</p>
 
 <p>https://github.com/JustinLee32/cai_niao_shua_ti</p>
 
