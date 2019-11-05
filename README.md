@@ -12,15 +12,13 @@
 <li>简历挂：PayPal，博世，平安科技，字节跳动，东方财富，智加科技，顺丰科技，阿里巴巴，网宿科技，paypal，友塔，银联，莉莉丝游戏，米哈游</li>
 <li>笔试挂（包括笔试完没消息的）：360，拼多多，京东，网易严选，滴滴，奇安信，巨人网络，依图科技，爱奇艺，美团点评，网易云音乐，网易游戏，腾讯，震坤行，心动网络，商汤科技，唯品会，工商银行，科大讯飞，中金所</li>
 <li>面试挂：携程，58，中国电信-云计算，第四范式，同花顺，上海银行，akuna，甜橙金融，通联数据，触宝，哈啰出行，招银网络科技，喜马拉雅</li>
+<li>面试流程走完：
+小红书，乐鑫，酷家乐</br></li>
 </ul>
 </blockquote>
 
-<h3 id="toc_2">面试流程走完：</h3>
-
-<blockquote>
-<p>小红书，乐鑫，酷家乐</br>
+<p></br>
 个人认为，想要在校招中斩获较好的算法工程师offer的话，那么以下几点是必须的。</p>
-</blockquote>
 
 <p></br></p>
 
@@ -40,11 +38,11 @@
 <p></br></br>
 接下来的一部分用来记录秋招的面试。（按时间先后排列）</p>
 
-<h3 id="toc_3">********************<strong><em>九月份面试</em></strong>******************************</h3>
+<h3 id="toc_2">********************<strong><em>九月份面试</em></strong>******************************</h3>
 
 <p></br></p>
 
-<h3 id="toc_4">2019-09-20  58集团（算法工程师，一面，凉）</h3>
+<h3 id="toc_3">2019-09-20  58集团（算法工程师，一面，凉）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">(15min)
 
@@ -52,7 +50,7 @@
 
 <p></br></p>
 
-<h3 id="toc_5">2019-09-24  携程（机器学习，一面，凉）</h3>
+<h3 id="toc_4">2019-09-24  携程（机器学习，一面，凉）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">(15min)
 
@@ -60,7 +58,7 @@
 
 <p></br></p>
 
-<h3 id="toc_6">2019-09-25 上海银行（IT科技岗&lt;数据挖掘&gt;，一面，凉）</h3>
+<h3 id="toc_5">2019-09-25 上海银行（IT科技岗&lt;数据挖掘&gt;，一面，凉）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">(30min)
 
@@ -78,7 +76,7 @@
 
 <p></br></p>
 
-<h3 id="toc_7">2019-09-26 中国电信-云计算（算法工程师，一面，凉）</h3>
+<h3 id="toc_6">2019-09-26 中国电信-云计算（算法工程师，一面，凉）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">(20min)
 
@@ -90,7 +88,7 @@
 
 <p></br></p>
 
-<h3 id="toc_8">2019-09-27 招银网络科技（算法工程师base杭州，电话一面，凉）</h3>
+<h3 id="toc_7">2019-09-27 招银网络科技（算法工程师base杭州，电话一面，凉）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">(15min)
 
@@ -103,7 +101,7 @@
 
 <p></br></p>
 
-<h3 id="toc_9">2019-09-28 第四范式（机器学习建模工程师base上海，视频一面，凉）</h3>
+<h3 id="toc_8">2019-09-28 第四范式（机器学习建模工程师base上海，视频一面，凉）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">(45min)
 
@@ -116,7 +114,7 @@
 
 <p></br></p>
 
-<h3 id="toc_10">2019-09-28 同花顺（机器学习base杭州，电话一面，凉）</h3>
+<h3 id="toc_9">2019-09-28 同花顺（机器学习base杭州，电话一面，凉）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">(30min)
 
@@ -140,11 +138,11 @@
 
 <p></br></p>
 
-<h3 id="toc_11">********************<strong><em>十月份面试</em></strong>******************************</h3>
+<h3 id="toc_10">********************<strong><em>十月份面试</em></strong>******************************</h3>
 
 <p></br></p>
 
-<h3 id="toc_12">2019-10-15 Akuna capital(初级量化研究员base上海，电话一面，凉)</h3>
+<h3 id="toc_11">2019-10-15 Akuna capital(初级量化研究员base上海，电话一面，凉)</h3>
 
 <div><pre class="line-numbers"><code class="language-python">(40min)
 
@@ -157,7 +155,7 @@
 
 <p></br></p>
 
-<h3 id="toc_13">2019-10-17 哈啰出行（算法工程师，一面，凉）</h3>
+<h3 id="toc_12">2019-10-17 哈啰出行（算法工程师，一面，凉）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">(45min)
 
@@ -176,7 +174,7 @@
 
 <p></br></p>
 
-<h3 id="toc_14">2019-10-17 甜橙金融（数据建模工程师，一面，凉）</h3>
+<h3 id="toc_13">2019-10-17 甜橙金融（数据建模工程师，一面，凉）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">(15min)
 
@@ -190,7 +188,7 @@
 
 <p></br></p>
 
-<h3 id="toc_15">2019-10-17 酷家乐（算法工程师-EGS图形渲染方向，电话面）</h3>
+<h3 id="toc_14">2019-10-17 酷家乐（算法工程师-EGS图形渲染方向，电话面）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">(20min)
 自我介绍
@@ -203,7 +201,7 @@
 
 <p></br></p>
 
-<h3 id="toc_16">2019-10-18 小红书（算法工程师，一面，二面）</h3>
+<h3 id="toc_15">2019-10-18 小红书（算法工程师，一面，二面）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">一面：(80min)
 
@@ -226,7 +224,7 @@
 
 <p></br></p>
 
-<h3 id="toc_17">2019-10-19 通联数据（算法工程师，一面，二面，凉；量化工程师，一面，凉）</h3>
+<h3 id="toc_16">2019-10-19 通联数据（算法工程师，一面，二面，凉；量化工程师，一面，凉）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">算法一面：(30min)
 
@@ -264,7 +262,7 @@
 
 <p></br></p>
 
-<h3 id="toc_18">2019-10-21 小红书（算法工程师，三面）</h3>
+<h3 id="toc_17">2019-10-21 小红书（算法工程师，三面）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">(60min)
 
@@ -281,7 +279,7 @@
 
 <p></br></p>
 
-<h3 id="toc_19">2019-10-22 乐鑫（AI鑫星，一面，HR面，等总裁面）</h3>
+<h3 id="toc_18">2019-10-22 乐鑫（AI鑫星，一面，HR面，等总裁面）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">一面(20min)
 
@@ -299,7 +297,7 @@ HR面(20min)
 
 <p></br></p>
 
-<h3 id="toc_20">2019-10-23 喜马拉雅（AI算法，一面，凉）</h3>
+<h3 id="toc_19">2019-10-23 喜马拉雅（AI算法，一面，凉）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">(40min)
 
@@ -320,7 +318,7 @@ HR面(20min)
 
 <p></br></p>
 
-<h3 id="toc_21">2019-10-25 触宝（大数据研发，二面，凉）</h3>
+<h3 id="toc_20">2019-10-25 触宝（大数据研发，二面，凉）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">一面(45min)
 
@@ -346,7 +344,7 @@ HR面(20min)
 
 <p></br></p>
 
-<h3 id="toc_22">2019-10-28 乐鑫（AI鑫星，总裁面）</h3>
+<h3 id="toc_21">2019-10-28 乐鑫（AI鑫星，总裁面）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">(40min)
 
@@ -366,7 +364,7 @@ HR面(20min)
 
 <p></br></p>
 
-<h3 id="toc_23">2019-10-29 酷家乐（算法工程师-EGS图形渲染方向，一面，二面，三面）</h3>
+<h3 id="toc_22">2019-10-29 酷家乐（算法工程师-EGS图形渲染方向，一面，二面，三面）</h3>
 
 <div><pre class="line-numbers"><code class="language-python">一面：(30min)
 
