@@ -397,3 +397,15 @@ HR面(20min)
 2.  计算机图形学看得怎么样？
 3.  我这有三篇论文（计算机图形学领域的英文文章），你选一篇看15分钟，然后跟我讲大致写了什么。
 4.  什么时候能来实习？</code></pre></div>
+
+<p></br></p>
+
+<blockquote>
+<p>最后附上自己刷题记录（有一些模板）</p>
+
+<p>https://github.com/JustinLee32/cai_niao_shua_ti</p>
+
+<p>和今年校招的真题代码思路（不完整）</p>
+
+<p>https://github.com/JustinLee32/2020_chun_qiu_zhao</p>
+</blockquote>
