@@ -1,7 +1,6 @@
-# qiu_zhao_jing_yan
-<h2 id="toc_0">2020届秋招血泪史——算法工程师（凉经+面经）</h2>
+<h2 id="toc_0">2020届秋招血泪史——算法工程师（凉经+面经）+ 推荐书目、课程（不定期更新）</h2>
 
-<p>先说说互联网各岗位的招聘难度吧。总的来讲：算法（图像 &gt; 自然语言 &gt; 机器学习） &gt; 开发（后端 &gt; 前端） &gt; 前端 &gt; 测试、运维</p>
+<p>先说说互联网各岗位的招聘难度吧。总的来讲：算法（图像 &gt; 自然语言 &gt; 机器学习） &gt; 开发（后端 &gt; 前端）  &gt; 测试、运维</p>
 
 <p>再说说本人今年的情况，秋招共投递70余家公司，岗位主要是算法、数据挖掘。</p>
 
@@ -400,12 +399,89 @@ HR面(20min)
 
 <p></br></p>
 
+<h3 id="toc_23">附录一：个人刷题代码和校招笔试题代码</h3>
+
+<p></br></p>
+
 <blockquote>
-<p>最后附上自己刷题记录（有一些模板，持续更新）</p>
+<p>附上自己刷题记录（有一些模板，持续更新）</p>
 
 <p>https://github.com/JustinLee32/cai_niao_shua_ti</p>
 
 <p>和今年校招的真题代码思路（不完整）</p>
 
-<p>https://github.com/JustinLee32/2020_chun_qiu_zhao</p>
+<p>https://github.com/JustinLee32/2020_chun_qiu_zhao
+</br></p>
+</blockquote>
+
+<h3 id="toc_24">附录二：一些比较好的课程</h3>
+
+<p></br></p>
+
+<blockquote>
+<p><font size=4><strong>数据结构与算法：</strong> </font></p>
+
+<p>左程云（左神）基础班 + 进阶班就可以了。资金充足可以在牛客网上报名，网上也有免费的资源（不全，但是足够了）</p>
+
+<p><a href="https://www.bilibili.com/video/av53422535?from=search&amp;seid=9953885936505675938"><strong>基础班链接</strong></a></br>
+若无法点击请复制：https://www.bilibili.com/video/av53422535?from=search&amp;seid=9953885936505675938</p>
+
+<p><a href="https://www.bilibili.com/video/av69111252/?spm_id_from=333.788.videocard.0"><strong>进阶班链接</strong></a></br>
+若无法点击请复制：https://www.bilibili.com/video/av69111252/?spm<em>id</em>from=333.788.videocard.0</p>
+
+<p><font size=4><strong>机器学习与深度学习：</strong></font></p>
+
+<p>吴恩达，李宏毅，斯坦福大学公开课这些经典资源，可以自行在网络上搜索。</p>
+
+<p><a href="https://github.com/shuhuai007/Machine-Learning-Session"><strong>机器学习白板推导系列</strong></a></br>
+若无法点击请复制：https://github.com/shuhuai007/Machine-Learning-Session</p>
+
+<p>个人觉得《机器学习白板推导》系列视频注重数学的推导，由于在面试过程中我们不免会遇到一些面试官要求你推导数学公式，所以看看这个视频还是非常有帮助的！</p>
+</blockquote>
+
+<p></br></p>
+
+<h3 id="toc_25">附录三：一些比较好的书籍和讲义</h3>
+
+<p></br></p>
+
+<blockquote>
+<p><font size=4><strong>编程语言基础：</strong></font></p>
+
+<p>《Python编程从入门到实践》</p>
+
+<p><font size=4><strong>数据结构与算法：</strong></font></p>
+
+<p>《算法导论》</br>
+《剑指offer》</br>
+《数据结构（Python）语言描述》</br></p>
+
+<p><font size=4><strong>机器学习与深度学习：</strong></font></p>
+
+<p>《统计学习方法（第二版）》</br>
+《深度学习》（花书）</br>
+《百面机器学习》（葫芦书）</br></p>
+
+<p><font size=4><strong>自然语言处理：</strong></font></p>
+
+<p>《统计自然语言处理》</br>
+<a href="https://pan.baidu.com/s/1wIAUAiNN5k6qwOkD9IHstg">《python自然语言处理实战：核心技术与算法》</a></br>
+提取码：y01b</p>
+
+<p><font size=4><strong>推荐系统：</strong></font></p>
+
+<p>《推荐系统开发实战》</br>
+《推荐系统算法实践》</p>
+
+<p><font size=4><strong>语音识别：</strong></font></p>
+
+<p>《解析深度学习语音识别实践》</p>
+
+<p><font size=4><strong>其他资源：</strong></font></p>
+
+<p><a href="https://pan.baidu.com/s/1rF1eM3vKFp_1mj51pHOpGA">《菜菜sklearn讲义》</a></br>
+提取码：0rh5</br>
+该视频课程完整版需要付费，这个是完整课程的配套讲义，可以在B站上找到课程的免费版本。</br>
+<a href="https://pan.baidu.com/s/10DcKgix_5ayNiz74Wy6UjA">机器学习-算法校招面试题库（附答案与解析）电子版</a></br>
+提取码：o549</p>
 </blockquote>
